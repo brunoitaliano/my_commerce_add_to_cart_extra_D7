@@ -1,0 +1,2 @@
+# my_commerce_add_to_cart_extra_D7
+Customization of commerce_add_to_cart_extras module
